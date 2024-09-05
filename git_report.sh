@@ -10,7 +10,7 @@ Help()
     echo
     echo "Options:"
     echo "  -v  Enable verbose mode"
-    echo "  -s  Specify the time range (e.g., '24 hours ago', '3 days ago'). Default is 24 hours if not specified"
+    echo "  -s  Specify the time range 'since' (e.g., '24 hours ago', '3 days ago'). Default is 24 hours if not specified"
     echo
     echo "Examples:"
     echo "  $0 -v -s '2 days ago'  # Generate report for changes in the last 2 days"
